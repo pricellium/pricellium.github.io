@@ -1,3 +1,6 @@
+This repository is just an example for the Pricellium Client
+(https://pricellium.github.io/)
+
 INFO AND FACTS ABOUT THIS PROGRAM:
 
 1. This program has 11,594 lines of code in total
